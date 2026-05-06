@@ -1,0 +1,33 @@
+# Secrets & Credentials
+.env
+token.json
+credentials.json
+*.json
+!requirements.txt
+
+# Python Virtual Environment (SAB SE ZAROORI)
+venv/
+.venv/
+ENV/
+env/
+lib/
+bin/
+include/
+share/
+
+# AI Tooling & History (Privacy Risks)
+history/
+specs/
+.gemini/
+.specify/
+logs/
+data/
+pytest.ini
+
+# Python Caches
+__pycache__/
+*.pyc
+
+# OS Files
+.DS_Store
+Thumbs.db

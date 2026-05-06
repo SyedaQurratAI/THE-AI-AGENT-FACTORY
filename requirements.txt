@@ -1,0 +1,11 @@
+google-genai
+pydantic
+websockets
+requests
+python-dotenv
+pytest
+cryptography
+pytest-asyncio
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
